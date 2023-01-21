@@ -43,6 +43,22 @@
       "system": "pf2e"
     },
     {
+        "name": "spells",
+        "label": "The Seeker's Guide to the Sunward Isles",
+        "path": "/packs/spells.db",
+        "entity": "Item",
+        "type": "Item",
+        "system": "pf2e"
+    },
+    {
+        "name": "feats",
+        "label": "The Seeker's Guide to the Sunward Isles",
+        "path": "/packs/feats.db",
+        "entity": "Item",
+        "type": "Item",
+        "system": "pf2e"
+    },
+    {
       "name": "journals",
       "label": "The Seeker's Guide to the Sunward Isles",
       "path": "/packs/journals.db",
