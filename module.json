@@ -51,7 +51,7 @@
         "system": "pf2e"
     },
     {
-        "name": "feats",
+        "name": "seekers-guide-feats",
         "label": "The Seeker's Guide to Excellence",
         "path": "/packs/feats.db",
         "entity": "Item",
