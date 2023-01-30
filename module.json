@@ -43,9 +43,9 @@
       "system": "pf2e"
     },
     {
-        "name": "spells",
+        "name": "spellwrights-guide-to-useful-spells",
         "label": "The Seeker's Guide to Esoteric Art",
-        "path": "/packs/spells.db",
+        "path": "/packs/spellwrights-guide-to-useful-spells.db",
         "entity": "Item",
         "type": "Item",
         "system": "pf2e"
